@@ -1,14 +1,29 @@
-.pets {
-  width:30%
+.pet1 {
+  width:30%;
   float:left;
-  padding:4px;
-  margin:10px;
-  box-sizing:border-box;
+}
+
+.pet2 {
+  width:30%;
+  float:left;
+}
+.pet3 {
+  width:30%;
+  float:left;
+}
+
+.pet4 {
+  width:30%;
+  float:left;
+}
+
+.pet5 {
+  width:30%;
+  float:left;
 }
 
 #photo {
-  width:200px;
-  display:block;
+  width:30%;
   margin:auto;
 }
 

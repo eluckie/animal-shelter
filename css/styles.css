@@ -1,0 +1,18 @@
+.pets {
+  width:30%
+  float:left;
+  padding:4px;
+  margin:10px;
+  box-sizing:border-box;
+}
+
+#photo {
+  width:200px;
+  display:block;
+  margin:auto;
+}
+
+body p {
+  text-align:center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}

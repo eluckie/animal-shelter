@@ -48,6 +48,17 @@
   box-sizing:border-box;
 }
 
+.pet5 p {
+  font-style:italic;
+  color:antiquewhite;
+}
+
+.pet5 h4 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight:bold;
+  color:antiquewhite;
+}
+
 #photo {
   width:160px;
   margin:0 auto;
@@ -77,5 +88,5 @@ h3 {
 
 h4 {
   text-align:center;
-  font-family:'Courier New', Courier, monospace;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }

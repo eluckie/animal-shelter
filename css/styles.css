@@ -1,7 +1,7 @@
 .pet1 {
   width:200px;
   float:left;
-  margin:10px;
+  margin:6px;
   border:4px black;
   padding:4px;
   background-color:red;
@@ -11,7 +11,7 @@
 .pet2 {
   width:200px;
   float:left;
-  margin:10px;
+  margin:6px;
   border:4px black;
   padding:4px;
   background-color:orange;
@@ -21,7 +21,7 @@
 .pet3 {
   width:200px;
   float:left;
-  margin:10px;
+  margin:6px;
   border:4px black;
   padding:4px;
   background-color:yellowgreen;
@@ -31,7 +31,7 @@
 .pet4 {
   width:200px;
   float:left;
-  margin:10px;
+  margin:6px;
   border:4px black;
   padding:4px;
   background-color:blue;
@@ -41,7 +41,7 @@
 .pet5 {
   width:200px;
   float:left;
-  margin:10px;
+  margin:6px;
   border:4px black;
   padding:4px;
   background-color:purple;
@@ -49,11 +49,12 @@
 }
 
 #photo {
-  width:140px;
-  margin:auto;
+  width:160px;
+  margin:0 auto;
+  display:block;
 }
 
 body p {
-  text-align:center;
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
+
